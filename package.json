@@ -1,0 +1,11 @@
+{
+  "name": "@smith109/toggle-dropdown",
+  "version": "1.0.1",
+  "description": "A reusable function to toggle dropdown menus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
